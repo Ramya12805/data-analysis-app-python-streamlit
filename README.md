@@ -26,8 +26,8 @@ Steps
   - Run the Streamlit app with the following command "streamlit run app.py"
 3. View the App: Open your web browser and go to http://localhost:8501 to view the app running locally.
 
-bout
-This app is built using Streamlit, a fast way to build and share data apps. Streamlit turns data scripts into shareable web apps in minutes.
+About
+- This app is built using Streamlit, a fast way to build and share data apps. Streamlit turns data scripts into shareable web apps in minutes.
 
 License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
